@@ -1,0 +1,12 @@
+Sat Dec  3 06:14:32 MST 2016
+
+
+	cores:   40
+
+	threads: 40
+
+	TIME:    222.688650 seconds
+
+	L2 norm: 4.7511429754e-04
+4480.63user 3.82system 3:44.29elapsed 1999%CPU (0avgtext+0avgdata 4033872maxresident)k
+0inputs+0outputs (1major+252297minor)pagefaults 0swaps
